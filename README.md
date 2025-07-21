@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Logesh Pandiyan</h1>
+<h1 align="center">Hi Buddy's👋, I'm Logesh Pandiyan</h1>
 <h3 align="center">🚀 Junior Frontend Developer | MERN Stack Enthusiast | Learner | Developer</h3>
 
 ---
