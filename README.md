@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Logesh Pandiyan</h1>
-<h3 align="center">🚀 Junior Frontend Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&width=440&lines=Frontend+Developer;React+%7C+Node+%7C+MongoDB;Passionate+about+clean+UI+%26+UX;Always+learning+something+new+💡" alt="Typing SVG" />
-</p>
+<h3 align="center">🚀 Junior Frontend Developer | MERN Stack Enthusiast | Learner | Developer</h3>
 
 ---
 
