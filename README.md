@@ -1,7 +1,8 @@
 <h1 align="center">Hi Buddy's👋, I'm Logesh Pandiyan</h1>
 <h3 align="center">🚀 Junior Frontend Developer | MERN Stack Enthusiast | Learner | Developer</h3>
-
----
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;;Graphic%20Designer;Always%20learning%20new%20things&amp;center=true&amp;width=500&amp;height=50"></a>
+</p>
 
 ### 🌟 About Me
 
